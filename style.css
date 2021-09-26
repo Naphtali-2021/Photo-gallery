@@ -82,6 +82,7 @@ header{
 }
 
 #footer{
+    margin-top: 40px;
     background: black;
     color: white;
     display: flex;
